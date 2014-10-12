@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>郑帆</title>
+ <link href="http://micky-zf.github.io/atom.xml" rel="self"/>
+ <link href="http://micky-zf.github.io/"/>
+ <updated>2014-10-12T21:28:31+08:00</updated>
+ <id>http://micky-zf.github.io</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ 
+ <entry>
+   <title>hello word</title>
+   <link href="http://micky-zf.github.io/hello-word"/>
+   <updated>2014-10-12T20:34:21+08:00</updated>
+   <id>http://micky-zf.github.io/hello-word</id>
+   <content type="html">&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;终于有了自己的第一个博客, 自己看了半天jekyll,大致了解了些东西,原理虽然简单,
+我也就在网上找了个别人的博客源码,下载下来直接用了,还是要保留对原有作者的尊重.
+毕竟人们的辛苦是不是白费的.&lt;/p&gt;
+
+&lt;p&gt;尊重原作者 &lt;a href=&quot;https://github.com/cuberoot-sw/cuberoot-sw.github.com&quot;&gt;源码&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+
+</feed>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+
+    <title>
+      hello word &middot; 
+      郑帆
+    </title>
+    
+    <meta name="description" content="hello word">
+    
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/hyde.css">
+    <link rel="stylesheet" href="/public/css/pygments.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700|Abril+Fatface">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  </head>
+  <body>
+
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1><a href="/">郑帆</a></h1>
+        <p class="lead">
+          <a href="http://www.cuberoot.in">我</a> 天生不是一个聪明的人,我只能在 '后天' 努力让我变得 '聪明' .
+        </p>
+
+        <div class="colophon">
+            <p>
+              <a href="/archive">Blog Archive</a>
+              |
+              <a href="">About</a>
+            </p>
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      <div class="post">
+  <h1>hello word</h1>
+  <span class="post-date">
+  Posted by: micky-zf
+  | 12 Oct 2014
+  | <a href="http://micky-zf.github.io/hello-word#disqus_thread">Comments</a>
+</span>
+
+
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;终于有了自己的第一个博客, 自己看了半天jekyll,大致了解了些东西,原理虽然简单,
+我也就在网上找了个别人的博客源码,下载下来直接用了,还是要保留对原有作者的尊重.
+毕竟人们的辛苦是不是白费的.</p>
+
+<p>尊重原作者 <a href="https://github.com/cuberoot-sw/cuberoot-sw.github.com">源码</a></p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+  </ul>
+</div>
+
+<div>&nbsp;</div>
+
+<div id="disqus_thread"></div>
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'cuberootblog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://micky-zf.github.io/hello-word';
+        var disqus_url = 'http://micky-zf.github.io/hello-word';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + 'count.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+
+</script>
+
+
+
+
+    </div>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <script>
+      var clicky_site_ids = clicky_site_ids || [];
+      clicky_site_ids.push(100771136);
+      (function() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//static.getclicky.com/js';
+        ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+      })();
+    </script>
+  </body>
+</html>

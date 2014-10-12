@@ -1,0 +1,62 @@
+title:        "郑帆"
+tagline:      "郑帆"
+url:          http://micky-zf.github.io
+markdown:     redcarpet
+permalink:  /:title
+highlighter:     pygments
+paginate:     10
+excerpt_separator: "<!-- more -->"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mr. Hyde"
+      category: "project"
+
+
+disqus_short_name : cuberootblog
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+
+google_analytics_tracking_id : ''
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+github_projects:
+#  -
+#    name: phant_rb
+#    url : https://github.com/girishso/phant_rb
+#  -
+#    name: kipwiki
+#    url : https://github.com/girishso/kipwiki
+#  -
+#    name: mindflowy
+#    url : https://github.com/girishso/mindflowy
+#  -
+#    name: jiralicious
+#    url : https://github.com/girishso/jiralicious
+
+rubygems:
+#  -
+#    name: spree-custom-notifications
+#    url : http://rubygems.org/gems/spree_custom_notifications
+#  -
+#    name: goog_currency
+#    url : http://rubygems.org/gems/goog_currency
+#  -
+#    name: rails-client-logger
+#    url : http://rubygems.org/gems/rails-client-logger

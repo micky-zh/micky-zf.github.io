@@ -1,0 +1,19 @@
+<ul class="tutorial_header">
+  <a href="http://girishso.github.io/reactjs-phonecat/step-{{ include.step }}/{{ include.demo_page }}#/phones">
+    <li class="">
+      {% if include.demo_text %}
+        <i class="fa fa-play"></i> {{ include.demo_text }}
+      {% else %}
+        <i class="fa fa-play"></i> Step-{{ include.step }} Live Demo
+      {% endif %}
+    </li>
+  </a>
+
+  {% if include.prev_step %}
+    <a href="https://github.com/girishso/reactjs-phonecat/compare/step-{{ include.prev_step }}...step-{{ include.step }}">
+      <li class="">
+        <i class="fa fa-search"></i> Code Diff
+      </li>
+    </a>
+  {% endif %}
+</ul>
